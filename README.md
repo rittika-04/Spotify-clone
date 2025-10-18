@@ -1,4 +1,6 @@
 🟢 Spotify Clone
+
+
 A professional-grade Spotify web application clone built using React, Vite, Firebase, and the Spotify Web API.
 This project offers a rich, real-time music streaming experience with user authentication, playlist management, and playback features that closely mimic the official Spotify app.
 
